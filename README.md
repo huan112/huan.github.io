@@ -1,9 +1,5 @@
 # huan.github.io
+huan
 
-<html>
 
-    <body>
-        <h2>Hello World!</h2>
-    
-    </body>
-</html>
+huan
